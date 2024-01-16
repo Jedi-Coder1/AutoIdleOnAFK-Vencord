@@ -2,7 +2,7 @@ import definePlugin from "@utils/types";
 
 export default definePlugin({
     name: "AutoIdleOnAFK",
-    description: "Automatically updates your discord status to 'idle' when you haven't opened your discord client for more than 5 minutes",
+    description: "changes your status to 'idle' wen you are tabbed out of discord for 5 minutes (originally created by RoguedBear but ported to Vencord)",
     authors: [
         {
             id: 904144997559975937n,
