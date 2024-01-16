@@ -6,7 +6,7 @@ export default definePlugin({
     authors: [
         {
             id: 904144997559975937n,
-            name: "Your Name",
+            name: "Aero Solid Color",
         },
     ],
     patches: [],
